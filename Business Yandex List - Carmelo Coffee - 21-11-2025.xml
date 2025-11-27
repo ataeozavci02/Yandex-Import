@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<companies>
+  <company>
+    <company-id>6818a27b7d5dcbf485ea588b</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Caferağa, Mühürdar Cd. No:41/B, 34710 Kadıköy/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 09:00-23:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>29.023714</lon>
+      <lat>40.989121</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/26a81ee2-2c1f-4e42-93df-dff04e1e4bc7.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/a9d9fec1-b7e3-406a-ad29-74de5ce8082f.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/1a98c94d-adbf-4707-83ce-fb200d7163f1.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/mFvlm1C7GU9V5UmcSMmfSUEYq-Wej50Qzil8oJdw5gcz1cS0lol6FjrwcAgztVy4g1kOR0TzaNS69xWA=s0"><tag>FOOD</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/VjmuBxTlRP9f79g89YClHvI1nBdS7rcPA7cphsVNQ8R-H0AVGGWnxzajqcQrOc29PcpPTZPS6IyjV19e=s0"><tag>FOOD</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/32af144a-2c7f-4585-b255-4079b6ce5425.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/a892015a-d792-4ea3-b4b1-ba9823154f6f.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/bbc25b28-e957-449d-bbd5-0568669800e3.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/b6TN-lvtlrNx3is4nnl35UONOpiJBbG17QGQA2c3ZbFkxxp_WATTL_SoDSW1icEJ4vShsgL_0kT1K6Vj=s0"><tag>FOOD</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/d04fe63f-be61-4849-b40a-8bcc534df3c0.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/b8c345b8-484e-47a5-9d2e-0079654ce0db.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjUmbloB2el-9-lz3fU3bY4Et3X1XFpg2_vTN8Z9pj-Wc2BhLQA" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="delivery" value="1" />
+    <feature-boolean name="payment_by_credit_card" value="1" />
+  </company>
+  <company>
+    <company-id>68d68e1d708ec75a78170adf</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Pobedy Ave, 141, Kazan, Respublika Tatarstan, Russia, 420100</address>
+    <working-time lang="tr">pzt-pzr: 10:00-22:00</working-time>
+    <country lang="en">Russian Federation</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>49.2139156</lon>
+      <lat>55.7801165</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <add-url>https://www.instagram.com/carmelo_russia/</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>6818a2807d5dcbf485ea5a20</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Aydınevler, Siteler Yolu No:28, 34854 Maltepe/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 10:00-22:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>29.1215412</lon>
+      <lat>40.9530255</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/3ae71521-9fd7-4d27-84ed-a65c614d1992.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/17c9e176-bd5c-4615-8490-462cae4cccc2.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/f40bb6c8-807f-42a4-9fab-3ec6fd9ecbc1.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/d848b8ed-f028-4d5d-86ce-ee76ef51343d.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/c51fffa1-5d16-4f25-ba59-67f92db028c7.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/fc134d34-f730-4f40-a7e2-86e99c214473.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/2cdec348-0ed4-46d1-8e32-b9882ad19dc3.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/fc03f848-52a9-4183-a09d-fc6d9e3fc5fc.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/cfd75af4-8ace-4ad7-8b69-eb165f067b62.jpg"><tag>ACCESSIBILITY</tag></photo>    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="toilet_for_disabled" value="1" />
+    <feature-boolean name="delivery" value="1" />
+    <feature-boolean name="ramp" value="1" />
+    <feature-boolean name="parking_disabled" value="1" />
+    <feature-boolean name="payment_by_credit_card" value="1" />
+  </company>
+  <company>
+    <company-id>6818a27d7d5dcbf485ea5918</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Meşrutiyet, Karanfil Sk. No 31/A, 06650 Çankaya/Ankara, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 09:00-23:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>32.855495</lon>
+      <lat>39.9180228</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/x2pWX8A2ifK0bJGmhPwRQ5MQ75x7TiMGV1T8Sw6Nw4Dn__26KEn17ylqP45SuqIaM0gMEGGub7sMnxiE=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/Ym5ofsklE2-h3fh4iKke4O6HAouGlvEC4-dDx-w4t05d2qYIyXmNMxnjqAvRrG5YR2Zl3HwR8hjibEfC=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/QB0NlDv0_tSy8egcTwJfyNBD_9hVDMfgpRsHvWKfZwRGNLIg85XfJP6ESmrDXtaF8EyGNKr7k7cJK2N4=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjXFDTmpCloZAZliALWdbqf2yklNgOaYY9w8W6kfVMgbNFzVC1w" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="delivery" value="1" />
+    <feature-boolean name="ramp" value="1" />
+    <feature-boolean name="parking_disabled" value="1" />
+    <feature-enum-multiple name="payment_type" value="by_card" />
+  </company>
+  <company>
+    <company-id>6818a2807d5dcbf485ea5a5e</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Kuşkavağı, Akdeniz Blv. No:141, 07070 Konyaaltı/Antalya, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 08:00-00:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>30.650821</lon>
+      <lat>36.8695284</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/a99513ae-da23-4e9c-a856-defe40cb8230.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/c7e152ec-3449-4058-9090-cb6d27dab39d.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/NQlO94L4ZLRibvwLUwZ-bAkNhi9dUsxYz-KCiRKrMaYXtv5lVkERLuSkYjqewvVAyrrReasseMRE_5J_=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/7a53cbc1-ee9d-4de0-98da-e9cb7d17ab44.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/408730c3-e775-4fc2-965d-6a262d3d62cd.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/603994c4-1625-4cc0-865d-51da6ba1d071.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/a73d430f-5c1e-4468-b6f2-30db8e0520db.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/21a7dc47-e5e3-4c5f-8b0f-7e2f7c8a0509.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/f2670385-8a44-4f18-bc92-8da662cdca4e.jpg"><tag>ACCESSIBILITY</tag></photo>    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>68d67b7e708ec75a7816c99c</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Alleya Slavy, Peterburgskaya St, 72, Kazan, Respublika Tatarstan, Russia, 420043</address>
+    <working-time lang="tr">pzt-pzr: 08:00-22:00</working-time>
+    <country lang="en">Russian Federation</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>49.1390375</lon>
+      <lat>55.7764304</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <add-url>https://www.instagram.com/carmelo_russia/</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="payment_by_credit_card" value="1" />
+  </company>
+  <company>
+    <company-id>6818a27a7d5dcbf485ea5842</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">ETS Plaza, Aydınevler, Sanayi Cd. No:32 D:4. Kat, 34854 Maltepe/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-cum: 09:00-18:00; cmt-pzr: 10:00-22:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>29.124782</lon>
+      <lat>40.948191</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjVd1qUW_cKNeNbCVb-LP-6Ui2j9gexfwP9H1DnZOvmDwFVkB7g" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>6818a2817d5dcbf485ea5aa0</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Çınar, Bağdat Cad. No:199, 34841 Maltepe/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 08:00-01:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>29.114591</lon>
+      <lat>40.942668</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/MXC0kG3hmuNIKwc-sp2vmWloOwNKJR_B_DQk1qXhvVclhZddTEOBIIu4R7y-DrLH2_pNUuYu-nVUpKoJ=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/u7zS8JhTsuud_S_YUX0kr-SNywQWRNLnnw0amoPMlRDlCKJLPsHKnltMYb4SRZwRkurTL92laERw-BXb=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/J6cb_09v1rnRcku2xY_lLX7egVsGYiWDhmBZw8WikGgWOoL-mOwq_-EtdoYy0GWKhZjlzeHGvumSfOJE=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/30272660-8928-4c9b-a6d6-8e7adf7ef227.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/28aae434-f974-4afa-abf3-39c4aa0aa61b.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/d34889ec-bd6e-4231-a972-57c2fc2af96d.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/d4a0c416-4b6b-493e-9c74-ecc5dab9a643.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/c416e068-ba6b-45df-80ca-019cfc50b6ed.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/d6ee260c-6e29-4493-bbf2-2680c0b88aff.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/9441d26a-3b50-4b7d-b6af-9a20c42b3200.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ebe2d632-2e1e-4238-808b-f6b8ddeeab44.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjWX3YvNRAodawcZW7_2WyNrJ0mAzHJteAhwt_j4rvLcAFc9tLI" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>6818a27f7d5dcbf485ea59de</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Yeni, General Ali İhsan Türkkan Cd. No:7, 34570 Silivri/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 09:00-23:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>28.252026</lon>
+      <lat>41.076714</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/bfb389ea-d9a4-49c3-9370-0dd0326393a1.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/a51b3b79-7c81-46f1-8b87-4bfec27bbf23.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/2de3122b-f222-449d-9379-23ddf13da8dd.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/9efe87d5-5954-4f0a-8824-c9ce959f71e6.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/e78fc65a-5515-4f98-961d-8328a3d8ce5a.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/0e83faef-f44b-40bf-a002-df23590e79cd.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/c15041e4-5fb3-4ae6-b28b-2b29f6c9f009.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/50488581-faf6-43ab-9539-de1da1877951.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjUK3IsMUhSSxl7i7iSSAgwE32C3pM7gIKKInZs4qEJ9905DMrA" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="payment_by_credit_card" value="1" />
+  </company>
+  <company>
+    <company-id>6818a27c7d5dcbf485ea58d6</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Kültür, Ali Çetinkaya Blv No: 24/B, 35220 Konak/İzmir, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 08:00-23:30</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>27.14179483184548</lon>
+      <lat>38.43461504828123</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/9af07eaf-7ab2-47c4-9113-ed5688260f77.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/8ZfTaqJXh38nzYYBmkEDx1rNEbFiPd5MgYXHlK6_nnOsOqeq84oM-_F9p_ByF3puTAGbntlWVhPHrutX=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/zLjYa6Wl2gU0qV_BHPZ97jqv0UsrJ0VJf_QbcVdlcwOQJSWgS__Fy4liZ4VgxjPrmzMcM3Li6jethoGn=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ISviTGyREc6kQYhYCeLLHKbUHOSwyX2OhlDdAbz-QPEUewI-Z8OeiBd6v9Mzj8DFAiSmxfrprKv9Tdyj=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/97969dae-5a1e-4465-b870-4eac70515e8c.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/112dc552-7871-43d7-a313-91aea9003fca.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjXEDXAFSan9kd8cyHwOqrQ3KuuYrcavPgVCYzrrxYBqGJojuls" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>6818a2837d5dcbf485ea5b63</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Gazi, Mevlana Blv. No:2, 06560 Yenimahalle/Ankara, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 10:00-22:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>32.831893387343165</lon>
+      <lat>39.95231271760679</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/9c396b82-72e5-45dd-9457-0a329fbd2105.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/5d4ae889-92ef-4628-b8ea-e2343f4a3d67.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/28aa1a92-7a93-4488-b1dd-4c6eb92cd6de.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/4bf25498-e5bd-4181-9c6e-ce584969668e.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/zrhdc4hq6pkkMIM20IqyhErmMbrn_usiVN60W8BuXsSEQATi0Eucexf203EpSWxoH1-w0dTt-9pbMlVh=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/dp832zpZulCXv-NPqP7adfn9i-NQoc9suSlXgAj3ENKSLzSpXV0U9teoabSf-QnWQU24VjSBAati_q7J=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/rl71bRvaYXRr8LOGYhpk8GlonSzHnfMbkHXvM5u3Wzbbi4xihnL6bN2sCVmEO7axBcW1vbfB8R3Amcq8=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/b5f79119-7cde-473e-8e39-d5c1ecaab49c.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/66ca9543-dc6b-4e6a-bec7-aea4e3862e86.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/c64fbc3e-17cb-469d-a739-3df46d78eeb9.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/4c821008-e7c0-4438-bac7-6438315573ef.jpg"><tag>ACCESSIBILITY</tag></photo>    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="delivery" value="1" />
+  </company>
+  <company>
+    <company-id>6818a27d7d5dcbf485ea595a</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Osmanağa, Çilek Sk. No: 2A, 34714 Kadıköy/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 08:00-23:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>15.10.2025</actualization-date>
+    <coordinates>
+      <lon>29.029431</lon>
+      <lat>40.990444</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ed557b11-b850-4c83-9c08-243150373e70.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/bd67f5a8-4250-406f-964f-285a2c1b8c8e.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/da503216-c46c-49e4-b86d-dc45d0ca3ec8.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ab962cda-ecca-4c92-8941-a981a032639a.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/8804a242-4f69-400d-aa2c-c8cadf31578b.jpg"><tag>ACCESSIBILITY</tag></photo>    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="delivery" value="1" />
+  </company>
+  <company>
+    <company-id>6818a2827d5dcbf485ea5ae0</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Merkez, Sanayi Cd. No:9, 34406 Kağıthane/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 08:00-00:30</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>28.9825319</lon>
+      <lat>41.0865036</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/13be3098-c4b5-4073-a17a-e817c3bed0f1.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/4f2c0410-c17a-4beb-b080-a1843c6c1a51.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/922554e9-f739-4142-b79f-500560ca985d.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/3a5b6829-5080-449e-8087-492b72793426.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/b8266838-7e56-4460-a56f-63dea910c44c.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/b9zrmmdvflxH_zz3N_lqPjXkkoUpO6_lu47uKV-1g10PesjhX4qWrjxwOV6i4d7rdC8C7n1DFOmekymy=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/4e851254-4e65-4d0a-8799-91103074453b.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/86807062-66b3-4ec8-8656-1357cc963e6b.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ee6017e8-6d75-4f84-9a4e-6809b57c18a6.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ndr_qI0lCBd6BUYPrzvi2nymYHHOEtzRx9ZQXgfF4wUA68ATSn-BvDZ8i-TYX2f2fYhVyQ-QXIrVYj20=s0" />      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/uR6_S5hMbPzvvXcWxWQ8DpNzrqpE7fVKvIbK1GTb4ZqMIzBhHgc3ISzrWocziem5dN0ki6e5xpIHUyFD=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/XtM8Vgk0gXKXy38vQCj6HQjVaNOqHlMuzrWi1Yvm_VAON7M_U0ZSjZDKTkeznMkdzrt-w2NJBNt_Cx-A=s0"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjUHajZ7kzbmU-yHL5lzSoV_4TIpz25yQ4zForeg_xl5mM6F8pU" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+  </company>
+  <company>
+    <company-id>6818a27e7d5dcbf485ea599a</company-id>
+    <name lang="tr">Carmelo Coffee</name>
+    <address lang="tr">Cevizli, Tugay Yolu Cd. No: 71 Zemin Kat, 34846 Maltepe/İstanbul, Türkiye</address>
+    <working-time lang="tr">pzt-pzr: 10:00-22:00</working-time>
+    <country lang="tr">Türkiye</country>
+    <url>https://coffeecarmelo.com/</url>
+    <actualization-date>21.11.2025</actualization-date>
+    <coordinates>
+      <lon>29.1659588</lon>
+      <lat>40.9191971</lat>
+    </coordinates>
+    <phone>
+      <type>phone</type>
+      <number>+902165044061</number>
+    </phone>
+    <email>info@coffeecarmelo.com</email>
+    <photos>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/3jQTLEHvQSqMUCD2DrQC6Rfb2eK08qSnCwt5HfQO0zfSFFI_7gBkxvJJDsMQ5kZSHXcZYrYffUDBLd8m=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/2fCb42hjsk3Xf6rL3162oFrHIuJE4ZK-xwN1OEDnFJD9f4j6bFA3uWMcD6EaC8OF9e2dfzHk8qX6B9Yf=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/0a7c06b2-5d53-4910-b394-8e05aae61d05.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/8b889864-9cce-41a1-9d0d-062072350eed.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/hSDojoVv0PvYdqVv641pYWK7AXWy_aulaHgxB8R69BjCuK-JmSgC3cTJ27GDZ3BELuYbO6UVBMDrMCCM=s0"><tag>MENU</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/8f2ef65c-7bbf-48c1-82dc-2857a27e5481.png"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/4d74ff8a-e694-4ce2-a782-80a03189f4dc.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/634febda-0c26-4d10-ae1d-101b9a688716.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/708aa20e-9fc8-4b9f-862a-0dcdfc85b124.jpg"><tag>ACCESSIBILITY</tag></photo>      <photo url="https://storage.googleapis.com/venuex-cdn/media-items/ALV-UjUagPKOOcaGNsVANhFNQr0P_GHnawY6xPhfLNJw7JqZ3n04Urw" />    </photos>    <add-url>https://x.com/coffeecarmelo</add-url>
+    <add-url>https://www.instagram.com/coffeecarmelo/</add-url>
+    <add-url>https://www.linkedin.com/company/93620193/admin/dashboard/</add-url>
+    <add-url>https://www.tiktok.com/@carmelocoffee</add-url>
+    <rubric-id>35193114937</rubric-id>
+    <feature-boolean name="delivery" value="1" />
+    <feature-boolean name="ramp" value="1" />
+    <feature-boolean name="parking_disabled" value="1" />
+    <feature-boolean name="payment_by_credit_card" value="1" />
+  </company>
+</companies>
